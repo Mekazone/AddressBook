@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Applify\Applify\Applify\bin\Debug\netstandard2.0\Applify.deps.json
+C:\Users\admin\source\repos\Applify\Applify\Applify\bin\Debug\netstandard2.0\Applify.dll
+C:\Users\admin\source\repos\Applify\Applify\Applify\bin\Debug\netstandard2.0\ref\Applify.dll
+C:\Users\admin\source\repos\Applify\Applify\Applify\bin\Debug\netstandard2.0\Applify.pdb
+C:\Users\admin\source\repos\Applify\Applify\Applify\obj\Debug\netstandard2.0\Applify.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Applify\Applify\Applify\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\source\repos\Applify\Applify\Applify\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\admin\source\repos\Applify\Applify\Applify\obj\Debug\netstandard2.0\Applify.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Applify\Applify\Applify\obj\Debug\netstandard2.0\Applify.AssemblyInfo.cs
+C:\Users\admin\source\repos\Applify\Applify\Applify\obj\Debug\netstandard2.0\Applify.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Applify\Applify\Applify\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\admin\source\repos\Applify\Applify\Applify\obj\Debug\netstandard2.0\Applify.dll
+C:\Users\admin\source\repos\Applify\Applify\Applify\obj\Debug\netstandard2.0\ref\Applify.dll
+C:\Users\admin\source\repos\Applify\Applify\Applify\obj\Debug\netstandard2.0\Applify.pdb
